@@ -4,7 +4,7 @@
              x:Class="PruebaRamas.Views.loginview">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome login!"
+            <Label Text="Welcome Login!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
